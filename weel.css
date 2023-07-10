@@ -1,0 +1,29 @@
+button.btn {
+    border: none;
+    border-radius: 2rem;
+    padding: 1rem 3rem;
+    font-size: 1rem;
+    font-family: var(--Livvic);
+    cursor: pointer;
+    text-emphasis-color: white;
+    tab-size: 50%;
+}
+
+body {
+    background-color: palevioletred;
+}
+
+.weels {
+    margin-left: 40%;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    padding: left;
+}
+
+.container {
+    height: 600px;
+    position: relative;
+    border: 1px solid white;
+}
